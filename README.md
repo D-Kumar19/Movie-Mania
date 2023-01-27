@@ -9,8 +9,8 @@ Want to check your progress? No problem, app uses a database and you can check y
 So, are you ready to put your movie knowledge to the test? Download Movie Mania and let the guessing begin!
 
 
-[Starting Page of the Project](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Starting%20Page.PNG)
-[Page if your answer is correct](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%201.png)
-[Page if your answer is incorrect](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%202.png)
-[Settings Page](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Settings%20Page.png)
-[High Scores Page](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/High%20Scores%20Page.png)
+<br>[Starting Page of the Project](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Starting%20Page.PNG) </br>
+<br> [Page if your answer is correct](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%201.png) </br>
+<br> [Page if your answer is incorrect](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%202.png) </br>
+<br> [Settings Page](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Settings%20Page.png) </br>
+<br> [High Scores Page](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/High%20Scores%20Page.png) </br>
