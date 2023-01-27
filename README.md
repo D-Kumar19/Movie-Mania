@@ -9,4 +9,4 @@ Want to check your progress? No problem, you can check your scores on a leaderbo
 So, are you ready to put your movie knowledge to the test? Download Movie Mania and let the guessing begin!
 
 Starting Page of the Project
-[Screenshot of my app](Pictures/Starting Page.png)
+[Screenshot of my app](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Starting%20Page.PNG)
