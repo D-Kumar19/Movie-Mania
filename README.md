@@ -7,3 +7,6 @@ Start by entering your name and select 'Start' to begin the game. You'll be show
 Want to check your progress? No problem, you can check your scores on a leaderboard. And if you're in the mood for a specific genre, you can select it in the settings and only movies from that genre will be shown.
 
 So, are you ready to put your movie knowledge to the test? Download Movie Mania and let the guessing begin!
+
+Starting Page of the Project
+[Screenshot of my app](Pictures/Starting Page.png)
