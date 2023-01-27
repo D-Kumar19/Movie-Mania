@@ -8,7 +8,9 @@ Want to check your progress? No problem, app uses a database and you can check y
 
 So, are you ready to put your movie knowledge to the test? Download Movie Mania and let the guessing begin!
 
-<br> <span style="color:red">Pictures of the Application:</span> </br>
+```diff
+- Pictures of the Application:
+```
 <br> [1) Starting Page of the Project](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Starting%20Page.PNG) </br>
 <br> [2) Page if your Answer is Correct](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%201.png) </br>
 <br> [3) Page if your Answer is Incorrect](https://github.com/D-Kumar19/Movie-Mania/blob/master/Pictures/Game%20Page%202.png) </br>
